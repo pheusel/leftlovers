@@ -1,3 +1,9 @@
 [submodule "leftloversAPIGateway"]
 	path = leftloversAPIGateway
 	url = https://github.com/hassel16/leftloversAPIGateway
+[submodule "leftloversTokenService"]
+	path = leftloversTokenService
+	url = https://github.com/hassel16/leftloversTokenService.git
+[submodule "leftloversFrontend"]
+	path = leftloversFrontend
+	url = https://github.com/hassel16/leftloversFrontend.git
