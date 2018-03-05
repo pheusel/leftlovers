@@ -7,3 +7,12 @@
 [submodule "leftloversFrontend"]
 	path = leftloversFrontend
 	url = https://github.com/hassel16/leftloversFrontend.git
+[submodule "leftloversChatService"]
+	path = leftloversChatService
+	url = https://github.com/hassel16/leftloversChatService.git
+[submodule "leftloversStandortService"]
+	path = leftloversStandortService
+	url = https://github.com/hassel16/leftloversStandortService.git
+[submodule "leftloversAngebotsService"]
+	path = leftloversAngebotsService
+	url = https://github.com/hassel16/leftloversAngebotsService.git
