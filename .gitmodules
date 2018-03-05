@@ -16,3 +16,6 @@
 [submodule "leftloversAngebotsService"]
 	path = leftloversAngebotsService
 	url = https://github.com/hassel16/leftloversAngebotsService.git
+[submodule "leftloversUserService"]
+	path = leftloversUserService
+	url = https://github.com/hassel16/leftloversUserService.git
