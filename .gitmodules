@@ -19,3 +19,9 @@
 [submodule "leftloversUserService"]
 	path = leftloversUserService
 	url = https://github.com/hassel16/leftloversUserService.git
+[submodule "leftlovers-account-service"]
+	path = leftlovers-account-service
+	url = https://github.com/pheusel/leftlovers-account-service.git
+[submodule "leftlovers-offer-service"]
+	path = leftlovers-offer-service
+	url = https://github.com/pheusel/leftlovers-offer-service.git
