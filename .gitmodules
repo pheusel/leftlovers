@@ -25,3 +25,6 @@
 [submodule "leftlovers-offer-service"]
 	path = leftlovers-offer-service
 	url = https://github.com/pheusel/leftlovers-offer-service.git
+[submodule "leftlovers-uaa-service"]
+	path = leftlovers-uaa-service
+	url = https://github.com/pheusel/leftlovers-uaa-service.git
